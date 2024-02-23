@@ -22,6 +22,12 @@
     <td align="center">Kim Chan Young</td>
     <td align="center">Choi Noon Sol</td>
   </tr>
+    <tr>
+    <td align="center"><b>LLM</b></td>
+    <td align="center"><b>Frontend, Backend</b></td>
+    <td align="center"><b>Image to Generate</b></td>
+      
+  </tr>
 </table>
 
 ## 🛠 기술 스택
